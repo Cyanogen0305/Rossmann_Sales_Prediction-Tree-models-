@@ -40,7 +40,7 @@ The dataset includes sales data for various Rossmann stores, with features such 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/rossmann-sales-prediction.git
+   git clone https://github.com/Cyanogen0305/Rossmann_Sales_Prediction-Tree-models-
    cd rossmann-sales-prediction
    ```
 
